@@ -76,7 +76,7 @@ Supabase Services
 
 ```bash
 # Clone repository
-git clone https://github.com/infancetony-69/smce-e-book.git
+git clone https://github.com/infance-tony/smce-e-book.git
 cd smce-e-book
 
 # Install dependencies
