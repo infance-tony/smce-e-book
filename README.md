@@ -4,8 +4,6 @@ Digital library platform for Stella Mary's College of Engineering students to ac
 
 **Live Site**: https://smce-e-book.vercel.app
 
-> ✨ **Latest Update**: Authentication system updated - now supports any email domain for user registration!
-
 ---
 
 ## Architecture
