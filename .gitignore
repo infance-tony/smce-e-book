@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Documentation (local only)
+DEPLOYMENT.md
+FIXES.md
+SETUP.md
+SUPABASE-CONFIG.md
+
+# Ignore today's debug migrations
+supabase/migrations/202601030000[1-2][2-3]-*.sql
+supabase/all-diagnostics-*.sql
+supabase/check-*.sql
+supabase/get-*.sql
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
